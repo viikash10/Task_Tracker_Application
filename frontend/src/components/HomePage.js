@@ -9,8 +9,8 @@ const HomePage = () => {
         <div className="col d-flex">
           <div className="text fw-bolder my-auto mx-auto">
             Get things done <br />
-            with <span className="text-task">Task</span>
-            <span className="text-mate">Mate</span>.
+            with <span className="text-task">Task Tracking</span>
+            <span className="text-mate">Application</span>.
           </div>
         </div>
         <div className="col">
