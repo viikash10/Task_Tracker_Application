@@ -1,5 +1,5 @@
-# TaskMate
-TaskMate is a simple task management application that allows users to create, manage, and track their todos. The application is built using Spring Boot for the backend API and React for the frontend.
+# Task Tracker Application
+Task Tracker Application is a simple task management application that allows users to create, manage, and track their todos. The application is built using Spring Boot for the backend API and React for the frontend.
 
 # Features
 - User authentication: Users can sign up and log in to their accounts.
@@ -12,6 +12,3 @@ TaskMate is a simple task management application that allows users to create, ma
 - Frontend: React, React Router, Axios
 - Database: MySQL
 
-## Click on the following link to view the figma design file:
->
-> [View Figma Design](https://www.figma.com/file/bJTE0FPmw2CqysIZ8W92bX/TaskMate?type=design&node-id=0%3A1&mode=design&t=qHNKzosxOqsIhXtN-1)
