@@ -15,7 +15,7 @@ const GetInTouch = () => {
             <form
               className="text-start mx-auto"
               style={{ maxWidth: "400px" }}
-              action="https://formsubmit.co/krish.taskmate@gmail.com"
+              action="http://localhost:5000/api/contact"
               method="POST"
             >
               <div className="mb-3">
