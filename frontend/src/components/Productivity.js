@@ -11,7 +11,7 @@ const Productivity = () => {
         </div>
         <div className="col d-flex">
           <div className="fw-bolder fs-3 my-auto mx-auto">
-            Taskmate helps you stay on top of your tasks and increase your
+            Task Tracker Application helps you stay on top of your tasks and increase your
             productivity. So why wait? Sign up today and start managing your
             to-dos like a pro!
             <br />
